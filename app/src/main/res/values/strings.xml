@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HearingAid</string>
+
+    <string-array name="listening_situations">
+        <item>Quite</item>
+        <item>2-3 people talking</item>
+        <item>Eating</item>
+        <item>Read a book </item>
+        <item>Social gathering</item>
+        <item>Car</item>
+        <item>1 other person</item>
+        <item>Movie Theater</item>
+        <item>Shopping</item>
+        <item>Yound Children</item>
+        <item>Watching TV</item>
+    </string-array>
+    <string-array name="loss_type">
+        <item> Conductive </item>
+        <item> Sensory Neural </item>
+        <item> Mixed </item>
+    </string-array>
+    <string name="title_activity_patient">PatientActivity</string>
+    <string name="tab_text_1">Profile</string>
+    <string name="tab_text_2">Workbook</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
